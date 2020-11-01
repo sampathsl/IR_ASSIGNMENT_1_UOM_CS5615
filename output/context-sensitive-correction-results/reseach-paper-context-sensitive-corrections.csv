@@ -1,0 +1,170 @@
+Incorrect Biword,Corrected Result,Edit Distance Sum
+Neural network,Neutral network,1
+for multi-task,for multi ask,2
+multi-task learning,multi ask learning,2
+learning ,,learning a,1
+, which,a which,1
+and task-invariant,and task in variant,2
+task-invariant features,task in variant features,2
+features .,features a,1
+. However,a However,1
+However ,,However a,1
+, in,a in,1
+approaches ,,approaches a,1
+, the,a the,1
+by task-specific,by task specific,1
+task-specific features,task specific features,1
+tasks .,tasks a,1
+. In,a In,1
+paper ,,paper a,1
+, we,a we,1
+an adversarial,an adversary l,3
+adversarial multi-task,adversary l multi ask,5
+multi-task learning,multi ask learning,2
+framework ,,framework a,1
+, alleviating,a alleviating,1
+other .,other a,1
+. We,a We,1
+tasks ,,tasks a,1
+, which,a which,1
+approach .,approach a,1
+. Besides,a Besides,1
+Besides ,,Besides a,1
+, we,a we,1
+as off-the-shelf,as off the shelf,2
+off-the-shelf knowledge,off the shelf knowledge,2
+tasks .,tasks a,1
+. Multi-task,a Multi ask,3
+Multi-task learning,Multi ask learning,2
+tasks .,tasks a,1
+. Recently,a Recently,1
+Recently ,,Recently a,1
+, neural-based,a neutral based,3
+neural-based models,neutral based models,2
+for multi-task,for multi ask,2
+multi-task learning,multi ask learning,2
+popular ,,popular a,1
+, ranging,a ranging,1
+vision (,vision a,1
+( Misra,a Misha,2
+Misra et,Misha et,1
+et al.,et all,1
+al. ,,all a,2
+, 2016,a 201,2
+2016 ;,201 a,2
+; Zhang,a Hang,2
+Zhang et,Hang et,1
+et al.,et all,1
+al. ,,all a,2
+, 2014,a 201,2
+2014 ),201 a,2
+) to,a to,1
+processing (,processing a,1
+( Collobert,a Follower t,4
+Collobert andWeston,Follower t andwew ton,5
+andWeston ,,andwew ton a,3
+, 2008,a 200,2
+2008 ;,200 a,2
+; Luong,a Long,2
+Luong et,Long et,1
+et al.,et all,1
+al. ,,all a,2
+, 2015,a 201,2
+2015 ),201 a,2
+) ,,a a,2
+, since,a since,1
+tasks .,tasks a,1
+. However,a However,1
+However ,,However a,1
+, most,a most,1
+on multi-task,on multi ask,2
+multi-task learning,multi ask learning,2
+learning (,learning a,1
+( Liu,a Lie,2
+Liu et,Lie et,1
+et al.,et all,1
+al. ,,all a,2
+, 2016c,a 201,3
+2016c ,,201 a,3
+, b,a b,1
+b ),b a,1
+) attempts,a attempts,1
+spaces ,,spaces a,1
+, merely,a merely,1
+whether parameters,whether parameter,1
+parameters of,parameter of,1
+shared .,shared a,1
+. As,a As,1
+Figure 1-,Figure 1,0
+1- (,1 a,1
+( a,a a,1
+a ),a a,1
+) ,,a a,2
+, the,a the,1
+general shared-private,general shared private,1
+shared-private model,shared private model,1
+task :,task a,1
+: one,a one,1
+store task-dependent,store task dependent,1
+task-dependent features,task dependent features,1
+features ,,features a,1
+, the,a the,1
+features .,features a,1
+. The,a The,1
+unnecessary task-specific,unnecessary task specific,1
+task-specific features,task specific features,1
+features ,,features a,1
+, while,a while,1
+some sharable,some arable,2
+sharable features,arable features,2
+space ,,space a,1
+, suffering,a suffering,1
+redundancy .,redundancy a,1
+. Taking,a Taking,1
+examples ,,examples a,1
+, which,a which,1
+tasks :,tasks a,1
+: Movie,a Movie,1
+reviews .,reviews a,1
+. The,a The,1
+use .,use a,1
+. This,a This,1
+boring .,boring a,1
+. The,a The,1
+word �infantile�,word infantile,2
+�infantile� indicates,infantile indicates,2
+task .,task a,1
+. However,a However,1
+However ,,However a,1
+, the,a the,1
+general shared-private,general shared private,1
+shared-private model,shared private model,1
+the task-specific,the task specific,1
+task-specific word,task specific word,1
+word �infantile�,word infantile,2
+�infantile� in,infantile in,2
+space ,,space a,1
+, leaving,a leaving,1
+tasks .,tasks a,1
+. Additionally,a Additional y,3
+Additionally ,,Additional y a,3
+, the,a the,1
+features .,features a,1
+. To,a To,1
+problem ,,problem a,1
+, in,a in,1
+an adversarial,an adversary l,3
+adversarial multi-task,adversary l multi ask,5
+multi-task framework,multi ask framework,2
+framework ,,framework a,1
+, in,a in,1
+in herently,inherently,1
+herently disjoint,recently dis joint,3
+disjoint by,dis joint by,1
+introducing orthogonality,introducing orthodox amity,4
+orthogonality constraints.Specifically,orthodox amity constraint specifically,7
+constraints.Specifically ,,constraint specifically a,4
+, we,a we,1
+a generic,a genetic,1
+generic shared,genetic shared,1
+sequence .,sequence a,1
